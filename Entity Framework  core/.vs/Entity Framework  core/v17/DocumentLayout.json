@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\509\\day.9\\S.TASK\\Entity Framework  core\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C4C3DF05-0A21-4DA9-B4F8-40E1716EB726}|Entity Framework  core.csproj|d:\\509\\day.9\\s.task\\entity framework  core\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4C3DF05-0A21-4DA9-B4F8-40E1716EB726}|Entity Framework  core.csproj|solutionrelative:models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4C3DF05-0A21-4DA9-B4F8-40E1716EB726}|Entity Framework  core.csproj|d:\\509\\day.9\\s.task\\entity framework  core\\migrations\\20241104200510_somechanges.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4C3DF05-0A21-4DA9-B4F8-40E1716EB726}|Entity Framework  core.csproj|solutionrelative:migrations\\20241104200510_somechanges.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4C3DF05-0A21-4DA9-B4F8-40E1716EB726}|Entity Framework  core.csproj|d:\\509\\day.9\\s.task\\entity framework  core\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4C3DF05-0A21-4DA9-B4F8-40E1716EB726}|Entity Framework  core.csproj|solutionrelative:data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 147,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "20241104200510_someChanges.cs",
+              "DocumentMoniker": "D:\\509\\day.9\\S.TASK\\Entity Framework  core\\Migrations\\20241104200510_someChanges.cs",
+              "RelativeDocumentMoniker": "Migrations\\20241104200510_someChanges.cs",
+              "ToolTip": "D:\\509\\day.9\\S.TASK\\Entity Framework  core\\Migrations\\20241104200510_someChanges.cs",
+              "RelativeToolTip": "Migrations\\20241104200510_someChanges.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T20:05:10.603Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\509\\day.9\\S.TASK\\Entity Framework  core\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Models\\Product.cs",
+              "ToolTip": "D:\\509\\day.9\\S.TASK\\Entity Framework  core\\Models\\Product.cs",
+              "RelativeToolTip": "Models\\Product.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAqwDAAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T19:17:38.148Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\509\\day.9\\S.TASK\\Entity Framework  core\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\509\\day.9\\S.TASK\\Entity Framework  core\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T18:35:34.779Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
